@@ -1,8 +1,8 @@
 # Getting Started with TypeScript-Loader
 https://user-images.githubusercontent.com/77671146/136595619-d8189aa5-476a-4c2b-a6c1-766b97c895b9.mp4
 1. Copy either the bouncer or spinner folder into your components folder.
-2. Import into your project: import Spinner from "./spinner";
-3. Use by adding the JSX-Element: <Spinner isLoading={isPageLoading} height="2rem" img={img_icon} />
+2. Import into your project: **import Spinner from "./spinner";**
+3. Use by adding the JSX-Element: **Spinner isLoading={isPageLoading} height="2rem" img={img_icon}**
 
 ## About
 This code uses only regular css and no library. Have fun, clone and make it your own!
